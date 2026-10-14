@@ -9,6 +9,11 @@
 
 An enterprise-ready Machine Learning system engineered to detect fraudulent credit card transactions in real-time. This project features a rigorous comparative benchmark across **Random Forest (Bagging)**, **XGBoost (Boosting)**, and a **Dense Neural Network (Deep Learning)** on an extremely imbalanced dataset (0.17% fraud rate), backed by an interactive **Streamlit** dashboard for instantaneous risk assessment and batch enterprise auditing.
 
+## 🌐 Live Demo
+[![Project Demo](https://img.shields.io/badge/Project%20Demo-Live-brightgreen?style=for-the-badge&logo=streamlit)](https://share.streamlit.io/deploy?repository=SHIVANSHI-27/credit-card-fraud-detection&branch=main&mainModule=app.py)
+
+> 💡 **Try the Live Dashboard:** Click the badge above to launch the application instantly on **Streamlit Community Cloud**.
+
 ---
 
 ## 📌 Executive Summary

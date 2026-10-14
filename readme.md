@@ -118,7 +118,7 @@ The accompanying Streamlit application provides a full-featured user interface f
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/credit-card-fraud-detection.git
+git clone https://github.com/SHIVANSHI-27/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 
 # 2. Create and activate a virtual environment

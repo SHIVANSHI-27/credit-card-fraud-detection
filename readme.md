@@ -1,7 +1,7 @@
 # 💳 SentinelGuard: End-to-End Credit Card Fraud Detection Engine
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-App%20Deployed-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App%20Live-FF4B4B.svg?logo=streamlit&logoColor=white)](https://shivanshi-27-credit-card-fraud-detection-app-oq4h2h.streamlit.app/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-v1.4%2B-F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-v2.0%2B-EB3C00.svg?logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.18%2B-FF6F00.svg?logo=tensorflow&logoColor=white)](https://tensorflow.org/)
@@ -10,9 +10,9 @@
 An enterprise-ready Machine Learning system engineered to detect fraudulent credit card transactions in real-time. This project features a rigorous comparative benchmark across **Random Forest (Bagging)**, **XGBoost (Boosting)**, and a **Dense Neural Network (Deep Learning)** on an extremely imbalanced dataset (0.17% fraud rate), backed by an interactive **Streamlit** dashboard for instantaneous risk assessment and batch enterprise auditing.
 
 ## 🌐 Live Demo
-[![Project Demo](https://img.shields.io/badge/Project%20Demo-Live-brightgreen?style=for-the-badge&logo=streamlit)](https://share.streamlit.io/deploy?repository=SHIVANSHI-27/credit-card-fraud-detection&branch=main&mainModule=app.py)
+[![Project Demo](https://img.shields.io/badge/Project%20Demo-Live-brightgreen?style=for-the-badge&logo=streamlit)](https://shivanshi-27-credit-card-fraud-detection-app-oq4h2h.streamlit.app/)
 
-> 💡 **Try the Live Dashboard:** Click the badge above to launch the application instantly on **Streamlit Community Cloud**.
+> 🚀 **Live Application:** Access the live interactive dashboard directly at [https://shivanshi-27-credit-card-fraud-detection-app-oq4h2h.streamlit.app/](https://shivanshi-27-credit-card-fraud-detection-app-oq4h2h.streamlit.app/)
 
 ---
 

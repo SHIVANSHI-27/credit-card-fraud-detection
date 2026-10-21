@@ -1,0 +1,22 @@
+# Large dataset files (GitHub blocks files > 100MB)
+creditcard.csv
+*.csv
+*.zip
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db

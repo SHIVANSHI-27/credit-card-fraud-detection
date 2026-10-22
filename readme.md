@@ -11,9 +11,6 @@ An enterprise-ready Machine Learning system engineered to detect fraudulent cred
 
 ## 🌐 Live Interactive Application
 [![Project Demo](https://img.shields.io/badge/Project%20Demo-Live%20on%20Streamlit-brightgreen?style=for-the-badge&logo=streamlit)](https://shivanshi-27-credit-card-fraud-detection-app-oq4h2h.streamlit.app/)
-
-> 🚀 **Access the live dashboard directly:** [https://shivanshi-27-credit-card-fraud-detection-app-oq4h2h.streamlit.app/](https://shivanshi-27-credit-card-fraud-detection-app-oq4h2h.streamlit.app/)
-
 ---
 
 ## 📌 Executive Summary
